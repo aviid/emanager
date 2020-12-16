@@ -1,6 +1,7 @@
 # emanager
 
-> Employee manager
+> Vuejs and firestore app. Showing how to use crud, without fire base authentication.
+> Visit aviid.github.io to view the projects
 
 ## Build Setup
 
